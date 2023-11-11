@@ -2,5 +2,8 @@
   "fmt": {
     "semiColons": false,
     "singleQuote": true
+  },
+  "imports": {
+    "console_write": "https://deno.land/x/console_write@v1.0.7/mod.ts"
   }
 }

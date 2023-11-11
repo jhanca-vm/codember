@@ -10,3 +10,12 @@
 
 Solución a los retos de [👨🏽‍💻 codember](https://codember.dev) con
 [🦕 Deno](https://deno.com)
+
+## Ejecuta un reto
+
+```
+deno run --allow-net challenge-XX.ts
+```
+
+Reemplaza `XX` por el número correspondiente al desafío que deseas ejecutar.
+Por ejemplo: `challenge-01.ts`
