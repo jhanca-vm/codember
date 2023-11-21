@@ -1,5 +1,6 @@
 {
   "fmt": {
+    "lineWidth": 90,
     "semiColons": false,
     "singleQuote": true
   },
